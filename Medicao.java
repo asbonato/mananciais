@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  *@author Bonato
- *@version master
+ *@version master+funcionalidade_x (merge na mao)
  */
 public class Medicao {
 	private double volume;
